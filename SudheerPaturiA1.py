@@ -4,6 +4,7 @@ Name: Sudheer Paturi
 ID: 13391146
 Started: 28/12/2016
 Completed: 02/01/2017
+Githuub: https://github.com/sd4483/CP1404_Assignment1.git
 
 Reading list: Displays a list of books and lets the user choose either list required books, completed books, add a new book or mark a book as completed.
 
